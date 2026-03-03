@@ -104,6 +104,9 @@ export default function LandingPage() {
           tag="Featured Partners"
           textboxLayout="default"
           useInvertedBackground={false}
+          names={[
+            "StyleCo",            "FashionFlow",            "ElegantWear",            "ModernStyle",            "ClassicThread",            "DesignHub",            "TrendSetters",            "VogueLabs"
+          ]}
           logos={[
             "http://img.b2bpic.net/free-vector/coffee-shop-logo-template_23-2150529082.jpg",            "http://img.b2bpic.net/free-vector/slow-fashion-badge-set_23-2148816027.jpg",            "http://img.b2bpic.net/free-vector/coffee-shop-logo-template_23-2150529082.jpg",            "http://img.b2bpic.net/free-vector/flat-design-outlet-stamp-collection_23-2149753026.jpg",            "http://img.b2bpic.net/free-vector/fashion-logo-template_23-2150529223.jpg",            "http://img.b2bpic.net/free-vector/slow-fashion-badge-set_23-2148816027.jpg",            "http://img.b2bpic.net/free-vector/flat-design-fashion-accessories-logo-set_23-2148888960.jpg",            "http://img.b2bpic.net/free-vector/flat-design-outlet-stamp-collection_23-2149753026.jpg"
           ]}
